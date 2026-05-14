@@ -1,4 +1,8 @@
-# Hi there, I'm Sonaa Rajagopal 👋
+
+<!-- TOP BANNER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonaa%20Rajagopal&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:00C9A7,50:4361EE,100:7B2CBF" />
+
 
 
 
@@ -6,7 +10,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%26+Ops+Developer;GenAI+and+LLM+Enthsuaist;Backend+Systems+Engineer;Building+Scalable+Projects+with+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%26+ML+Developer;GenAI+and+LLM+Enthsuaist;Backend+Systems+Engineer;Building+Scalable+Projects+with+Impact" alt="Typing SVG" />
 
 
 
@@ -29,105 +33,93 @@
 
 
 
-```yaml
+<table>
 
-Name: Sonaa Rajagopal
+<tr>
 
+<td align="center" width="25%">
 
 
-Role: Software Engineering Student
 
+### 🧠
 
 
-Focus:
 
-  - Full Stack Development
+**AI Systems**
 
-  - AI Systems
 
-  - Scalable Backend Engineering
 
-  - LLM Applications
+Building intelligent applications powered by LLMs, OCR, vector databases, and ML pipelines.
 
-  - Cloud & Distributed Systems
 
 
+</td>
 
-Currently Building:
 
-  - AI-powered platforms
 
-  - Distributed monitoring systems
+<td align="center" width="25%">
 
-  - Retrieval-Augmented AI applications
 
-  - Production-style backend systems
 
+### ⚙️
 
 
-Tech Philosophy:
 
-  "Build beautiful systems that actually scale."
+**Backend Systems**
 
-```
 
 
----
+Designing scalable APIs, distributed workers, queues, and cloud-native architectures.
 
 
-# 🛠 Tech Arsenal
 
+</td>
 
 
-<div align="center">
 
+<td align="center" width="25%">
 
 
-## Languages
 
+### 🌐
 
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,sql" />
 
+**Full Stack**
 
 
-## Frontend
 
+Creating modern responsive applications with beautiful user experiences.
 
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
 
+</td>
 
 
-## Backend
 
+<td align="center" width="25%">
 
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" />
 
+### ☁️
 
 
-## Databases
 
+**Cloud & DevOps**
 
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
+Working with Docker, Kubernetes, CI/CD, and scalable deployments.
 
 
-## AI / ML
 
+</td>
 
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
+</tr>
 
-
-## Cloud & DevOps
-
-
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github" />
+</table>
 
 
 
@@ -139,37 +131,31 @@ Tech Philosophy:
 
 
 
-
-
-# 🧩 What I Love Building
-
-
-
-✨ AI-powered applications
+<div align="center">
 
 
 
-✨ Full-stack production systems
+## ⚡ Developer DNA
 
 
 
-✨ Distributed backend architectures
+<img src="https://img.shields.io/badge/Code-Full%20Stack-blueviolet?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F5AF0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Passion-AI%20Engineering-purple?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Loves-Building%20Cool%20Stuff-8A2BE2?style=for-the-badge" />
 
 
 
-✨ Real-time platforms
+</div>
+
+# 🛠 My Skills
 
 
 
-✨ LLM + Vector Database integrations
-
-
-
-✨ Beautiful developer experiences
-
-
-
-✨ Systems that combine engineering + intelligence
+<div align="center">
 
 
 
@@ -177,23 +163,128 @@ Tech Philosophy:
 
 
 
-# 🌌 Current Focus
+## 💻 Programming & Languages
 
 
 
-```text
+<p>
 
-Building scalable software systems that combine:
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" />
+
+</p>
 
 
 
-AI + Full Stack + Cloud + Distributed Systems
-
-```
+`C++` • `Python` • `JavaScript` • `SQL` • `Software Design` • `Data Structures` • `Algorithms`
 
 
 
 ---
+
+
+
+## ⚙️ Frameworks & Backend
+
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs,flutter" />
+
+</p>
+
+
+
+`Node.js` • `Express.js` • `FastAPI` • `React` • `Next.js` • `Flutter` • `REST APIs` • `gRPC` • `LangChain`
+
+
+
+---
+
+
+
+## 🧠 Machine Learning & GenAI
+
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+</p>
+
+
+
+`Autoencoders` • `LLMs` • `RAG` • `LangChain`
+
+
+
+---
+
+
+
+## 🗄️ Databases & Vector Stores
+
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+
+</p>
+
+
+
+`MySQL` • `PostgreSQL` • `MongoDB` • `Firebase` • `Prisma` • `ChromaDB` • `QdrantDB`
+
+
+
+---
+
+
+
+## ☁️ Cloud & DevOps
+
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,jenkins" />
+
+</p>
+
+
+
+`AWS` • `Microsoft Azure` • `Docker` • `Kubernetes` • `Helm` • `Linux` • `Git` • `CI/CD` • `GitHub Actions` • `Jenkins`
+
+
+
+---
+
+
+
+## 📊 Monitoring & Visualization
+
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+
+</p>
+
+
+
+`Prometheus` • `Grafana` • `Power BI`
+
+
+
+---
+
+
+
+</div>
+
 
 
 
@@ -241,8 +332,9 @@ AI + Full Stack + Cloud + Distributed Systems
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer" />
 
+<!-- FOOTER -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9A7,50:4361EE,100:7B2CBF" />
 
 </div>
