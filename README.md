@@ -1,8 +1,7 @@
 
 <!-- TOP BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonaa%20Rajagopal&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:00C9A7,50:4361EE,100:7B2CBF" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonaa%20Rajagopal&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=gradient&customColorList=6,11,20,24,30" />
 
 
 
@@ -169,13 +168,13 @@ Working with Docker, Kubernetes, CI/CD, and scalable deployments.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,sql" />
 
 </p>
 
 
 
-`C++` • `Python` • `JavaScript` • `SQL` • `Software Design` • `Data Structures` • `Algorithms`
+`C++` • `C++` • `Python` • `Java` • `JavaScript` • `SQL` 
 
 
 
@@ -183,7 +182,7 @@ Working with Docker, Kubernetes, CI/CD, and scalable deployments.
 
 
 
-## ⚙️ Frameworks & Backend
+## ⚙️ Frontend Frameworks & Backend
 
 
 
@@ -195,7 +194,7 @@ Working with Docker, Kubernetes, CI/CD, and scalable deployments.
 
 
 
-`Node.js` • `Express.js` • `FastAPI` • `React` • `Next.js` • `Flutter` • `REST APIs` • `gRPC` • `LangChain`
+`Node.js` • `Express.js` • `FastAPI` • `React` • `Next.js` • `Flutter` • `REST APIs` • `LangChain`
 
 
 
@@ -235,47 +234,9 @@ Working with Docker, Kubernetes, CI/CD, and scalable deployments.
 
 
 
-`MySQL` • `PostgreSQL` • `MongoDB` • `Firebase` • `Prisma` • `ChromaDB` • `QdrantDB`
+`MySQL` • `PostgreSQL` • `MongoDB` • `Firebase` • `ChromaDB` 
 
 
-
----
-
-
-
-## ☁️ Cloud & DevOps
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,jenkins" />
-
-</p>
-
-
-
-`AWS` • `Microsoft Azure` • `Docker` • `Kubernetes` • `Helm` • `Linux` • `Git` • `CI/CD` • `GitHub Actions` • `Jenkins`
-
-
-
----
-
-
-
-## 📊 Monitoring & Visualization
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-
-</p>
-
-
-
-`Prometheus` • `Grafana` • `Power BI`
 
 
 
@@ -331,10 +292,8 @@ Working with Docker, Kubernetes, CI/CD, and scalable deployments.
 ## 💫 "Code. Scale. Innovate. Repeat."
 
 
+<!-- MATCHING FOOTER -->
 
-
-<!-- FOOTER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9A7,50:4361EE,100:7B2CBF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30" />
 
 </div>
